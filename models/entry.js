@@ -5,7 +5,7 @@ class Entry {
         this.age = age;
     }
 
-    // Method to display user details (for debugging purposes)
+    //Method to display user details (for debugging purposes)
     getEntry() {
         return {
             title: this.title,
